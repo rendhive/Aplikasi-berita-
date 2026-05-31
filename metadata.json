@@ -1,0 +1,6 @@
+{
+  "name": "Business News Portal",
+  "description": "Full-text text-only Business News Portal with Room database and WorkManager clean system",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
